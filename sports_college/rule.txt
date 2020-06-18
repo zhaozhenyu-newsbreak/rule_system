@@ -1,0 +1,2 @@
+r_1 : IN_c_college_1
+r_2:  r_1 OR IN_c_highschool_1 AND IN_c_school_2 OR IN_c_school_3

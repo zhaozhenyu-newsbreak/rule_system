@@ -1,0 +1,3 @@
+c_college : college , university , colleges , universities
+c_highschool: highschool, high school, senior high
+c_school: c_college,c_highschool, school,campus,student
