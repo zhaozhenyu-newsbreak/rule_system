@@ -1,0 +1,4 @@
+c_defenateCaseType : shooting , robbery , murder ,gunshot,homicides
+c_maybeCaseType: shot,kill,crime
+c_suspect: suspect ,investigate,police,crimestoppers,crier,detective,firearm
+c_result: wound,died,dead,arrest,charged, kill,accused

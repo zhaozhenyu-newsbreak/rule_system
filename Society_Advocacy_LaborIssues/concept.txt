@@ -1,0 +1,2 @@
+c_issue : unemployed , layed off , lay off, lays off, laying off , laid-off
+c_maybe : hire ,jobless,employing

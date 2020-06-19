@@ -1,0 +1,2 @@
+c_highschool: highschool, high school, senior high, junier high , senior,
+c_students: student, graduat , scholarship

@@ -1,0 +1,4 @@
+r_title1 : IN_c_defenateCaseType_1
+r_title2: IN_c_maybeCaseType_1 AND ( IN_c_suspect_1 OR IN_c_result_1 )
+r_title :r_title1 OR r_title2
+r_content: IN_c_defenateCaseType_1 OR ( IN_c_maybeCaseType_1 AND ( IN_c_suspect_1 OR IN_c_result_1 ) )
