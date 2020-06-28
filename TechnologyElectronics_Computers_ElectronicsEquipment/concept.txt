@@ -1,0 +1,3 @@
+c_equipment:samsung galaxy, samyang af, oneplus, huawei freebuds, amd ryzen,inter comet lake,iphone,ipad,apple watch,usb-c,google tv
+c_company: xiaomi,huawei,apple,sonos,evga,nokia,samsung
+c_product: phone,tv,soundbar,mobile

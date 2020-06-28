@@ -1,0 +1,1 @@
+r_title1 : IN_c_equipment_1 OR ( IN_c_company_1 AND IN_c_product_1 )

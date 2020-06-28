@@ -12,10 +12,10 @@ if __name__=='__main__':
         url = jd['url']
         title = jd['title']
         content = jd['content']
-        #if 'Sports' in label:
-        url_res = rule_parser.match(url.lower())
-        title_res = rule_parser.match(title.lower())
-        content_res = rule_parser.match(content.lower())
-        if url_res['r_title'] or title_res['r_title'] :
-            print('CrimePublicsafety_ViolentCrime\t'+url+'\t'+title+'\t'+str(url_res)+'\t'+str(title_res)+'\t'+str(content_res))
-    
+        if 'TransportationVehicles' in label:
+            url_res = rule_parser.match(url.lower())
+            title_res = rule_parser.match(title.lower())
+            content_res = rule_parser.match(content.lower())
+            if title_res['r_1']:
+                print('TransportationVehicles_Traffic_TrafficAccident\t'+url+'\t'+title)
+        

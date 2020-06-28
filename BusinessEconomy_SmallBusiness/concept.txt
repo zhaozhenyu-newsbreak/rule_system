@@ -1,1 +1,1 @@
-c_smallbuz : small bussiness , local bussiness , small restaurant,area bussiness
+c_smallbuz : small bussiness , local bussiness ,area bussiness

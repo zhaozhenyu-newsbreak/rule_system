@@ -1,0 +1,2 @@
+c_games : animal crossing , assassins creed,assassin's creed,pokemon ,call of duty,the last of us part,dying light 2,destiny 2,mortal kombat,fortnite,minecraft,final fantasy,pokémon ,grand theft auto, the legend of zelda,pubg,playerunknown's battlerounds ,overwatch,tetris, red dead redemption, world of warcraft,the elder scrolls,league of legends, dota 2,super smash bros, super mario,god of war,dark souls,apex, csgo,the witcher 3,hearth stone, video game
+c_gameEquipment: xbox,eShop,nintendo

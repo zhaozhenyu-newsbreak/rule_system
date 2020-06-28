@@ -16,6 +16,6 @@ if __name__=='__main__':
         url_res = rule_parser.match(url.lower())
         title_res = rule_parser.match(title.lower())
         content_res = rule_parser.match(content.lower())
-        if url_res['r_title'] or title_res['r_title'] :
-            print('CrimePublicsafety_ViolentCrime\t'+url+'\t'+title+'\t'+str(url_res)+'\t'+str(title_res)+'\t'+str(content_res))
+        if 'Lifestyle' in label and title_res['r_title1'] :
+            print('Lifestyle_PetsAnimals_Pets\t'+url+'\t'+title)
     
